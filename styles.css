@@ -1,6 +1,6 @@
 body {
-  color: black;
-  background-color: #F0E68C;
+  color: #20B2AA;
+  background-color: #E0FFFF;
   text-align: center;
   font-size: 30px;
 }
@@ -8,24 +8,23 @@ body {
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: #800000;
+  border-color: #20B2AA;
   border-width: 5px;
   width: 10%;
 }
 
 h1 {
-  color: #800000;
+  color: #20B2AA;
   text-align: center;
   font-size: 70px;
 }
 
 h2 {
-  color: #800000;
+  color: #20B2AA;
   text-align: center;
   font-size: 30px;
 }
 h3 {
-  color: #800000;
   text-align: center;
   font-size: 30px;
 }
