@@ -6,3 +6,11 @@
   <title>I am Kriti</title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
+<body>
+  <img size width="150" height="150" src="kriti.PNG" alt="Kriti Profile Pic">
+  <br>
+  <br>
+  <h1><strong>Content Startegy</strong></h1>
+
+</body>
+</html>
