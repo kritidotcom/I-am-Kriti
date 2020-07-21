@@ -47,7 +47,7 @@ div {
 }
 
 p {
-font-size: 150%;
+font-size: 120%;
 }
 
 .Top-container
@@ -61,6 +61,8 @@ position: absolute;
 left: 10px;
 padding-top: 20px;
 margin-left: 20px;
+width: 15%;
+height: auto;
 }
 .profile
 {
@@ -138,6 +140,11 @@ padding: 30px,
 margin: 40px auto 60px;
 width: 35%
 }
+.Aboutme
+{
+margin: 40px auto 60px;
+width: 35%
+}
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -169,3 +176,4 @@ width: 35%
 font-size: 0.75rem;
 padding: 20px auto 20px;
 }
+
